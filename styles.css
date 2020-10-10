@@ -1,0 +1,11 @@
+.aexthices {
+text-align: center;
+width: 100%;
+}
+li {
+    display: inline-block;
+    padding-right: 70px;
+}
+a {
+    text-decoration: none;
+}
